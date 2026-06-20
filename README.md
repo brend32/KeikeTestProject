@@ -20,9 +20,10 @@ The test project for the Middle / Senior Unity Developer position at Keike. (htt
 ## [Full task description is availabe in Presentation folder](./Presentation/Task.pdf)
 
 ## Presentation
-![](./Presentation/Main.mp4)
 
-![](./Presentation/ShapeCreation.mp4)
+https://github.com/user-attachments/assets/9659d183-d60c-44b5-ba6c-1d296880b6fb
+
+[Shape creation video](./Presentation/ShapeCreation.mp4)
 
 ![](./Presentation/Img1.png)
 
