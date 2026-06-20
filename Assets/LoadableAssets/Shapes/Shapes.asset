@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190a6d0168f44b1b84dcd87408ebb7b6, type: 3}
+  m_Name: Shapes
+  m_EditorClassIdentifier: 
+  _shapes:
+  - Name: shape_1
+    Shape:
+      m_AssetGUID: b7430639eb17c49f6a005cb588dcb5a3
+      m_SubObjectName: shape_1_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - Name: shape_A
+    Shape:
+      m_AssetGUID: 8c5f956b4d542453bb9f99654032b368
+      m_SubObjectName: shape_A_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - Name: shape_circle
+    Shape:
+      m_AssetGUID: f0eb1cf03a0564919bf18edbbf16d30e
+      m_SubObjectName: shape_circle_0
+      m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

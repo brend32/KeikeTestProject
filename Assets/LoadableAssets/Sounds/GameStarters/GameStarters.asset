@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aecff23f07644a292f7ca21a56e6565, type: 3}
+  m_Name: GameStarters
+  m_EditorClassIdentifier: 
+  _clips:
+  - Name: Follow_the_stars_and_trace_the_letter
+    Clip:
+      m_TableReference:
+        m_TableCollectionName: GUID:2b0dcb11fa2ad4d7c886289258c1d321
+      m_TableEntryReference:
+        m_KeyId: 73994854400
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+  - Name: Follow_the_stars_and_trace_the_number_en
+    Clip:
+      m_TableReference:
+        m_TableCollectionName: GUID:2b0dcb11fa2ad4d7c886289258c1d321
+      m_TableEntryReference:
+        m_KeyId: 328064819200
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0

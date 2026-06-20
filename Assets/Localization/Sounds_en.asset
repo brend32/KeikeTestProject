@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Sounds_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2b0dcb11fa2ad4d7c886289258c1d321, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 73994854400
+    m_Localized: 1f290e48efc5a4a489c2054e1a2c5ca0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328064819200
+    m_Localized: e302c4d2aea2b4c90988e973d3131e5e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 477616922624
+    m_Localized: 405ffb57bedd34a018c12c9d0d7db26c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 545187160064
+    m_Localized: 25808aa9ebc7840e6b550f25e4b69a75
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1377974607872
+    m_Localized: 84179aea414df4d1a9be2d95df9471ad
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
