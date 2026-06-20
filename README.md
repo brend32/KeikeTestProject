@@ -1,5 +1,5 @@
-## Keike - Test project
-The test project for the Middle / Senior Unity Developer position at Keike. (https://keiki.app/)
+## Keiki - Test project
+The test project for the Middle / Senior Unity Developer position at Keiki. (https://keiki.app/)
 
 ## Technical requirements
 - Unity 6000.0.74f1
