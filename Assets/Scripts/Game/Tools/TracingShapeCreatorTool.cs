@@ -5,7 +5,6 @@ using System.Linq;
 using Configurations;
 using Configurations.JSON;
 using Newtonsoft.Json;
-using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.Splines;
 using Utils;
